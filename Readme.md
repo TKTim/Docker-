@@ -1,6 +1,13 @@
 # Docker 筆記
 
-## Experiment 1
+[一、VM2透過VM1連上網路](#VM2透過VM1連上網路)
+[二、]
+---
+
+
+
+
+## VM2透過VM1連上網路
 
 VM1:
 
@@ -47,6 +54,11 @@ VM2:
     ping 8.8.8.8
     **測試是否可連網
 ![im](https://github.com/TKTim/Docker-/blob/master/Picture/02.jpg)
+
+---
+
+
+
 
 
 
