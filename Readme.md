@@ -32,7 +32,7 @@ VM1試連:
 
     ping 192.168.1.2
 
-![im](../Picture/01.jpg)
+![im](https://github.com/TKTim/Docker-/blob/master/Picture/01.jpg)
 
 
 VM1:
@@ -46,7 +46,7 @@ VM2:
 
     ping 8.8.8.8
     **測試是否可連網
-![im]()
+![im](https://github.com/TKTim/Docker-/blob/master/Picture/02.jpg)
 
 
 
