@@ -32,7 +32,7 @@ VM1試連:
 
     ping 192.168.1.2
 
-![im](\Picture\01.jpg)
+![im](../Picture/01.jpg)
 
 
 VM1:
@@ -41,6 +41,12 @@ VM1:
     [root@vm1 user]# iptables -A FORWARD -o enp0s3 -i enp0s9 -s 192.168.1.0/24 -m conntrack --ctstate NEW -j ACCEPT
     [root@vm1 user]# iptables -A FORWARD -o enp0s3 -i enp0s9 -s 192.168.1.0/24 -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
     [root@vm1 user]# iptables -t nat -A POSTROUTING -o enp0s3 -s 192.168.1.0/24 -j MASQUERADE
+
+VM2:
+
+    ping 8.8.8.8
+    **測試是否可連網
+![im]()
 
 
 
