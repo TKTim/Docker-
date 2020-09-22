@@ -124,6 +124,19 @@ VM2:
 
 ## 第二節
 
+### 前置動作
+
+準備兩台虛擬機
+
+   VM2網卡設置:
+
+    NAT+Host
+
+
+VM3網卡設置:
+
+    NAT+Host
+
 ### 1. 確認是否已安裝Docker
 
     $ docker version 
@@ -155,6 +168,7 @@ VM2:
 
     $ docker images 
     **顯示存在的images
+
  <img src="https://github.com/TKTim/Docker-/blob/master/Picture/05.jpg" width = "50%" height = "50%" alt="01" align=center />
 </div>
 
@@ -167,6 +181,7 @@ VM2:
          ed27d98eb361712c3e918a990f8c4261e917e89a3faf25d850dd7c0af38a0194
     
     $ 輸入http://192.168.56.102:8080/
+
  <img src="https://github.com/TKTim/Docker-/blob/master/Picture/06.jpg" width = "50%" height = "50%" alt="01" align=center />
 </div>
 
