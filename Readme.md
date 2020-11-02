@@ -14,6 +14,8 @@
 
 [六、Docker實作篇: MySQL搭配php、ngrok 使外網連上Docker、機器學習、](https://github.com/TKTim/Docker-/blob/master/files/20201020.md)
 
+[七、透過Gitlab完成自動副署、.gitlab-ci.yml](https://github.com/TKTim/Docker-/blob/master/files/20201027.md)
+
 ---
 
 
