@@ -16,6 +16,8 @@
 
 [七、透過Gitlab完成自動副署、.gitlab-ci.yml](https://github.com/TKTim/Docker-/blob/master/files/20201027.md)
 
+[八、重作上禮拜(不同檔案)](https://github.com/TKTim/Docker-/blob/master/files/20201103.md)
+
 ---
 
 
