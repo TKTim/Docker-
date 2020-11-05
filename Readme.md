@@ -12,11 +12,11 @@
 
 [例外: VM4 設定 sshd 與連線](https://github.com/TKTim/Docker-/blob/master/files/setVm4.md)
 
-[六、Docker實作篇: MySQL搭配php、ngrok 使外網連上Docker、機器學習、](https://github.com/TKTim/Docker-/blob/master/files/20201020.md)
+[六、Docker實作篇: MySQL搭配php、ngrok 使外網連上Docker、機器學習](https://github.com/TKTim/Docker-/blob/master/files/20201020.md)
 
-[七、透過Gitlab完成自動副署、.gitlab-ci.yml](https://github.com/TKTim/Docker-/blob/master/files/20201027.md)
+[七、透過Gitlab完成自動副署、.gitlab-ci.yml Part1](https://github.com/TKTim/Docker-/blob/master/files/20201027.md)
 
-[八、重作上禮拜(不同檔案)](https://github.com/TKTim/Docker-/blob/master/files/20201103.md)
+[八、透過Gitlab完成自動副署、.gitlab-ci.yml Part2](https://github.com/TKTim/Docker-/blob/master/files/20201103.md)
 
 ---
 
