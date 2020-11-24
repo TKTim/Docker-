@@ -22,6 +22,23 @@
 
 ---
 
+## docker swarm 實用語法
+
+    **container刪除
+
+    [root@localhost ~]# docker rm -f `docker ps -a | awk '{print $1}'`
+        * 可再搭配grep
+        * 例如
+            docker rm -f `docker ps -a | grep goharbor | awk '{print $1}'`
+
+  
+    **images刪除
+
+    [root@localhost ~]# docker rmi `docker images | awk '{print $3}'`
+
+    **docker service刪除
+
+    [root@vm4 ~]# docker service rm `docker service ls | awk '{print $1}'`
 
 
 
