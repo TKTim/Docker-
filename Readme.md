@@ -20,6 +20,8 @@
 
 [九、Docker swarm](https://github.com/TKTim/Docker-/blob/master/files/20201117.md)
 
+[十、Docker Replicas、更換版本、constraint](https://github.com/TKTim/Docker-/blob/master/files/20201124.md)
+
 ---
 
 ## docker swarm 實用語法
