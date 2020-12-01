@@ -22,6 +22,8 @@
 
 [十、Docker Replicas、更換版本、constraint](https://github.com/TKTim/Docker-/blob/master/files/20201124.md)
 
+[十一、K8s Part 1:安裝、](https://github.com/TKTim/Docker-/blob/master/files/20201201.md)
+
 ---
 
 ## docker swarm 實用語法
