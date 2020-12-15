@@ -24,6 +24,9 @@
 
 [十一、K8s Part 1:安裝、](https://github.com/TKTim/Docker-/blob/master/files/20201201.md)
 
+
+[十二、實作滾動升級](https://github.com/TKTim/Docker-/blob/master/files/20201208.md)
+
 ---
 
 ## docker swarm 實用語法
