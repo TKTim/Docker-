@@ -28,6 +28,8 @@
 
 [十三、附載均衡、修正無法透過其他虛擬機IP連線問題](https://github.com/TKTim/Docker-/blob/master/files/20201215.md)
 
+[十四、附載均衡、修正無法透過其他虛擬機IP連線問題](https://github.com/TKTim/Docker-/blob/master/files/20201229.md)
+
 
 ---
 
