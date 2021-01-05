@@ -30,7 +30,7 @@
 
 [十四、Dashboard、Helm](https://github.com/TKTim/Docker-/blob/master/files/20201229.md)
 
-[十五、附載均衡、修正無法透過其他虛擬機IP連線問題](https://github.com/TKTim/Docker-/blob/master/files/20210115.md)
+[十五、完整架設Flask、k8s](https://github.com/TKTim/Docker-/blob/master/files/20210105.md)
 
 
 ---
